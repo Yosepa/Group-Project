@@ -5,7 +5,7 @@
 	  eta charset="utf-8">
 	  eta name="viewport" content="width=device-width, initial-scale=1.0">
 	  itle>header</title>
-	  ink rel="stylesheet" type="text/css" href="css/style.css">
+	  ink rel="stylesheet" type="text/css" href="css(header)">
     <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
     <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
 </head>
